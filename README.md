@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BigBenz09
+- 👋 Hi, I’m Aniket, @marxman9
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Economics at IIT Roorkee
 - 💞️ I’m looking to collaborate on any learning experience
