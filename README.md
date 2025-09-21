@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aniket, @marxman9
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Economics at IIT Roorkee
-- 💞️ I’m looking to collaborate on any learning experience
+- 👀 I’m interested in AI, ML and Data Science
+- 🌱 I’m currently at IIT Roorkee
+- 💞️ Looking to collaborate on fun projects
 - 📫 How to reach me : aniketxpc2@gmail.com
 
 <!---
